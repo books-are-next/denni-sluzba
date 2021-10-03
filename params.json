@@ -1,0 +1,342 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Denní služba",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Miroslav Holub",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-03T16:48:04.200Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_001.md",
+        "xhtml": "denni_sluzba_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_002.md",
+        "xhtml": "denni_sluzba_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_003.md",
+        "xhtml": "denni_sluzba_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_004.md",
+        "xhtml": "denni_sluzba_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_005.md",
+        "xhtml": "denni_sluzba_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_006.md",
+        "xhtml": "denni_sluzba_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_007.md",
+        "xhtml": "denni_sluzba_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_008.md",
+        "xhtml": "denni_sluzba_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_009.md",
+        "xhtml": "denni_sluzba_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_010.md",
+        "xhtml": "denni_sluzba_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_011.md",
+        "xhtml": "denni_sluzba_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_012.md",
+        "xhtml": "denni_sluzba_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_013.md",
+        "xhtml": "denni_sluzba_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_014.md",
+        "xhtml": "denni_sluzba_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_015.md",
+        "xhtml": "denni_sluzba_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_016.md",
+        "xhtml": "denni_sluzba_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_017.md",
+        "xhtml": "denni_sluzba_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_018.md",
+        "xhtml": "denni_sluzba_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_019.md",
+        "xhtml": "denni_sluzba_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_020.md",
+        "xhtml": "denni_sluzba_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_021.md",
+        "xhtml": "denni_sluzba_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_022.md",
+        "xhtml": "denni_sluzba_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_023.md",
+        "xhtml": "denni_sluzba_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_024.md",
+        "xhtml": "denni_sluzba_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_025.md",
+        "xhtml": "denni_sluzba_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_026.md",
+        "xhtml": "denni_sluzba_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_027.md",
+        "xhtml": "denni_sluzba_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_028.md",
+        "xhtml": "denni_sluzba_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_029.md",
+        "xhtml": "denni_sluzba_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_030.md",
+        "xhtml": "denni_sluzba_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_031.md",
+        "xhtml": "denni_sluzba_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_032.md",
+        "xhtml": "denni_sluzba_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_033.md",
+        "xhtml": "denni_sluzba_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_034.md",
+        "xhtml": "denni_sluzba_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_035.md",
+        "xhtml": "denni_sluzba_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_036.md",
+        "xhtml": "denni_sluzba_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_037.md",
+        "xhtml": "denni_sluzba_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_038.md",
+        "xhtml": "denni_sluzba_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_039.md",
+        "xhtml": "denni_sluzba_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_040.md",
+        "xhtml": "denni_sluzba_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_041.md",
+        "xhtml": "denni_sluzba_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_042.md",
+        "xhtml": "denni_sluzba_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_043.md",
+        "xhtml": "denni_sluzba_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_044.md",
+        "xhtml": "denni_sluzba_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "denni_sluzba_045.md",
+        "xhtml": "denni_sluzba_045.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_denni_sluzba.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_citat",
+      "MLP_citat_autor",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_basne",
+      "MLP_verse_-0-12-",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "denni-sluzba"
+    },
+    "generatedAt": 1633279684445
+  }
+}

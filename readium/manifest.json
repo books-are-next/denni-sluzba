@@ -1,0 +1,391 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Denní služba",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Miroslav Holub",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-10-03T16:48:04.200Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denni_sluzba_045.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_denni_sluzba.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "POPELKA",
+      "children": [
+        {
+          "title": "Sazeč",
+          "href": "OEBPS/Text/denni_sluzba_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Husy",
+          "href": "OEBPS/Text/denni_sluzba_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "O Popelce",
+          "href": "OEBPS/Text/denni_sluzba_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "O psím andělu",
+          "href": "OEBPS/Text/denni_sluzba_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Domácí pán",
+          "href": "OEBPS/Text/denni_sluzba_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Hroby zajatců",
+          "href": "OEBPS/Text/denni_sluzba_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Varšava",
+          "href": "OEBPS/Text/denni_sluzba_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Zahradník",
+          "href": "OEBPS/Text/denni_sluzba_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Ulice večer",
+          "href": "OEBPS/Text/denni_sluzba_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Kluci u řeky",
+          "href": "OEBPS/Text/denni_sluzba_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Děti a moře",
+          "href": "OEBPS/Text/denni_sluzba_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Přístav",
+          "href": "OEBPS/Text/denni_sluzba_017.xhtml#_idParaDest-13"
+        }
+      ],
+      "href": "OEBPS/Text/denni_sluzba_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "NEJHLUBŠÍ MOŘE SVĚTA",
+      "children": [
+        {
+          "title": "Budík",
+          "href": "OEBPS/Text/denni_sluzba_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Maso",
+          "href": "OEBPS/Text/denni_sluzba_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Mucholapka",
+          "href": "OEBPS/Text/denni_sluzba_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Mlýnek na kávu",
+          "href": "OEBPS/Text/denni_sluzba_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Háčkující",
+          "href": "OEBPS/Text/denni_sluzba_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Těsto",
+          "href": "OEBPS/Text/denni_sluzba_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Ticho před ránem",
+          "href": "OEBPS/Text/denni_sluzba_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Nošení uhlí",
+          "href": "OEBPS/Text/denni_sluzba_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Shrbená žena",
+          "href": "OEBPS/Text/denni_sluzba_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Tramvaj v půl šesté ráno",
+          "href": "OEBPS/Text/denni_sluzba_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Stavba",
+          "href": "OEBPS/Text/denni_sluzba_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Šedivá báseň",
+          "href": "OEBPS/Text/denni_sluzba_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Stařec v noci",
+          "href": "OEBPS/Text/denni_sluzba_031.xhtml#_idParaDest-27"
+        }
+      ],
+      "href": "OEBPS/Text/denni_sluzba_018.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "DENNÍ SLUŽBA",
+      "children": [
+        {
+          "title": "Výslech matematika",
+          "href": "OEBPS/Text/denni_sluzba_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Večer v laboratoři",
+          "href": "OEBPS/Text/denni_sluzba_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Pokusný králík",
+          "href": "OEBPS/Text/denni_sluzba_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "V mikroskopu",
+          "href": "OEBPS/Text/denni_sluzba_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Ambulance",
+          "href": "OEBPS/Text/denni_sluzba_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Nemocní budoucnosti",
+          "href": "OEBPS/Text/denni_sluzba_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Dárce krve",
+          "href": "OEBPS/Text/denni_sluzba_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Pathologie",
+          "href": "OEBPS/Text/denni_sluzba_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Interna",
+          "href": "OEBPS/Text/denni_sluzba_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "O družici",
+          "href": "OEBPS/Text/denni_sluzba_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Denní služba",
+          "href": "OEBPS/Text/denni_sluzba_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Beznohý",
+          "href": "OEBPS/Text/denni_sluzba_044.xhtml#_idParaDest-40"
+        }
+      ],
+      "href": "OEBPS/Text/denni_sluzba_032.xhtml#_idParaDest-28"
+    }
+  ]
+}
