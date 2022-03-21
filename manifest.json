@@ -1,39 +1,19 @@
 {
   "author": "Miroslav Holub",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "holub-denni-sluzba-321dd19",
+  "contenttype": "poetry",
+  "edition": "",
+  "identifier": "holub-denni-sluzba-c109c63",
   "languagecode": "cs",
   "modified": "2021-10-03T16:48:04.200Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Denní služba",
-  "revision": "321dd19",
+  "revision": "c109c63",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 18:28:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647887294018
+    "date": "Mon Mar 21 2022 18:34:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647887675517
   },
   "documents": [
-    {
-      "title": "Denní služba",
-      "file": "denni_sluzba_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "denni_sluzba_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Denní služba",
       "file": "denni_sluzba_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "denni_sluzba_001.html",
-      "next": "denni_sluzba_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Denní služba",
-      "file": "denni_sluzba_003.html",
-      "words": 4,
-      "chars": 26,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "denni_sluzba_002.html",
-      "next": "denni_sluzba_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Denní služba",
-      "file": "denni_sluzba_004.html",
-      "words": 91,
-      "chars": 610,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "denni_sluzba_003.html",
+      "order": 0,
+      "prev": null,
       "next": "denni_sluzba_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 4,
-      "prev": "denni_sluzba_004.html",
+      "order": 1,
+      "prev": "denni_sluzba_002.html",
       "next": "denni_sluzba_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 324,
       "ideas": 14,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "denni_sluzba_005.html",
       "next": "denni_sluzba_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 390,
       "ideas": 24,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "denni_sluzba_006.html",
       "next": "denni_sluzba_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 966,
       "ideas": 40,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "denni_sluzba_007.html",
       "next": "denni_sluzba_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 561,
       "ideas": 32,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "denni_sluzba_008.html",
       "next": "denni_sluzba_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 577,
       "ideas": 32,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "denni_sluzba_009.html",
       "next": "denni_sluzba_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 721,
       "ideas": 34,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "denni_sluzba_010.html",
       "next": "denni_sluzba_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 434,
       "ideas": 24,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "denni_sluzba_011.html",
       "next": "denni_sluzba_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 262,
       "ideas": 11,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "denni_sluzba_012.html",
       "next": "denni_sluzba_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 634,
       "ideas": 25,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "denni_sluzba_013.html",
       "next": "denni_sluzba_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 417,
       "ideas": 21,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "denni_sluzba_014.html",
       "next": "denni_sluzba_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 342,
       "ideas": 19,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "denni_sluzba_015.html",
       "next": "denni_sluzba_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 578,
       "ideas": 30,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "denni_sluzba_016.html",
       "next": "denni_sluzba_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 20,
       "ideas": 1,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "denni_sluzba_017.html",
       "next": "denni_sluzba_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 458,
       "ideas": 28,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "denni_sluzba_018.html",
       "next": "denni_sluzba_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 276,
       "ideas": 19,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "denni_sluzba_019.html",
       "next": "denni_sluzba_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 116,
       "ideas": 7,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "denni_sluzba_020.html",
       "next": "denni_sluzba_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 423,
       "ideas": 29,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "denni_sluzba_021.html",
       "next": "denni_sluzba_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 243,
       "ideas": 14,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "denni_sluzba_022.html",
       "next": "denni_sluzba_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 285,
       "ideas": 14,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "denni_sluzba_023.html",
       "next": "denni_sluzba_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 505,
       "ideas": 28,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "denni_sluzba_024.html",
       "next": "denni_sluzba_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 481,
       "ideas": 32,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "denni_sluzba_025.html",
       "next": "denni_sluzba_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 373,
       "ideas": 21,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "denni_sluzba_026.html",
       "next": "denni_sluzba_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 532,
       "ideas": 20,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "denni_sluzba_027.html",
       "next": "denni_sluzba_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 573,
       "ideas": 24,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "denni_sluzba_028.html",
       "next": "denni_sluzba_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 535,
       "ideas": 21,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "denni_sluzba_029.html",
       "next": "denni_sluzba_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 637,
       "ideas": 34,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "denni_sluzba_030.html",
       "next": "denni_sluzba_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 12,
       "ideas": 1,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "denni_sluzba_031.html",
       "next": "denni_sluzba_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 286,
       "ideas": 14,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "denni_sluzba_032.html",
       "next": "denni_sluzba_034.html",
       "toc": [
@@ -681,7 +621,7 @@
       "chars": 522,
       "ideas": 24,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "denni_sluzba_033.html",
       "next": "denni_sluzba_035.html",
       "toc": [
@@ -701,7 +641,7 @@
       "chars": 257,
       "ideas": 10,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "denni_sluzba_034.html",
       "next": "denni_sluzba_036.html",
       "toc": [
@@ -721,7 +661,7 @@
       "chars": 218,
       "ideas": 12,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "denni_sluzba_035.html",
       "next": "denni_sluzba_037.html",
       "toc": [
@@ -741,7 +681,7 @@
       "chars": 425,
       "ideas": 25,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "denni_sluzba_036.html",
       "next": "denni_sluzba_038.html",
       "toc": [
@@ -761,7 +701,7 @@
       "chars": 563,
       "ideas": 33,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "denni_sluzba_037.html",
       "next": "denni_sluzba_039.html",
       "toc": [
@@ -781,7 +721,7 @@
       "chars": 117,
       "ideas": 8,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "denni_sluzba_038.html",
       "next": "denni_sluzba_040.html",
       "toc": [
@@ -801,7 +741,7 @@
       "chars": 433,
       "ideas": 26,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "denni_sluzba_039.html",
       "next": "denni_sluzba_041.html",
       "toc": [
@@ -821,7 +761,7 @@
       "chars": 365,
       "ideas": 23,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "denni_sluzba_040.html",
       "next": "denni_sluzba_042.html",
       "toc": [
@@ -841,7 +781,7 @@
       "chars": 246,
       "ideas": 18,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "denni_sluzba_041.html",
       "next": "denni_sluzba_043.html",
       "toc": [
@@ -861,7 +801,7 @@
       "chars": 524,
       "ideas": 39,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "denni_sluzba_042.html",
       "next": "denni_sluzba_044.html",
       "toc": [
@@ -881,9 +821,9 @@
       "chars": 575,
       "ideas": 30,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "denni_sluzba_043.html",
-      "next": "denni_sluzba_045.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -895,20 +835,20 @@
       ]
     },
     {
-      "title": "Denní služba",
-      "file": "denni_sluzba_045.html",
-      "words": 49,
-      "chars": 332,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 44,
+      "title": "Tiráž • Denní služba",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 973,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "denni_sluzba_044.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -917,14 +857,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3000,
-      "chars": 17223,
-      "ideas": 888
+      "words": 2999,
+      "chars": 17215,
+      "ideas": 887
     },
     "chapters": {
-      "words": 2993,
-      "chars": 17181,
-      "ideas": 883
+      "words": 2849,
+      "chars": 16213,
+      "ideas": 862
     }
   }
 }
