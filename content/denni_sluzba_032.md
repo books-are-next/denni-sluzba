@@ -1,5 +1,6 @@
 ---
+title: DENNÍ SLUŽBA
 contentType: prose
 ---
 
-DENNÍ SLUŽBA
+

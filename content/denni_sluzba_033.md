@@ -1,28 +1,27 @@
 ---
+title: Výslech matematika
 contentType: prose
 ---
 
-Výslech matematika
-
-Sešitek u něho našli.  
-A teď šéf gestapa,  
-mocný jak pánbůh,  
-se nad výpočty ptá:  
-„K čemu jsou integrály?  
-Jak dlouho jste to psal?“
+> Sešitek u něho našli.  
+> A teď šéf gestapa,  
+> mocný jak pánbůh,  
+> se nad výpočty ptá:  
+> „K čemu jsou integrály?  
+> Jak dlouho jste to psal?“
 
   
 
-Umořený a malý  
-vězeň sotva vzhléd:  
-„Tak asi — pětadvacet let.“
+> Umořený a malý  
+> vězeň sotva vzhléd:  
+> „Tak asi — pětadvacet let.“
 
   
 
-Šéf jakživ se tak nenasmál.
+> Šéf jakživ se tak nenasmál.
 
   
 
-Dodnes ho slyším smát se.  
-A byl to smích  
-z konce civilisace.
+> Dodnes ho slyším smát se.  
+> A byl to smích  
+> z konce civilisace.

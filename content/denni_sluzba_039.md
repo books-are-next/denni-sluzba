@@ -1,19 +1,18 @@
 ---
+title: Dárce krve
 contentType: prose
 ---
 
-Dárce krve
-
-I sochy šedivějí,  
-ocel černá,  
-břich dělům puká  
-a zuby ztrácí šelma.
+> I sochy šedivějí,  
+> ocel černá,  
+> břich dělům puká  
+> a zuby ztrácí šelma.
 
   
 
-Tady je ruka.
+> Tady je ruka.
 
   
 
-Jen krev je vlastně  
-nesmrtelná.
+> Jen krev je vlastně  
+> nesmrtelná.

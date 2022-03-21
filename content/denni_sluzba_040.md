@@ -1,49 +1,48 @@
 ---
+title: Pathologie
 contentType: prose
 ---
 
-Pathologie
-
-Zde v Pánu leží  
-jazyky chudáků,  
-plíce generálů,  
-oči udavačů,  
-kůže mučednic,
+> Zde v Pánu leží  
+> jazyky chudáků,  
+> plíce generálů,  
+> oči udavačů,  
+> kůže mučednic,
 
   
 
-v absolutnu  
-sklíček mikroskopických.
+> v absolutnu  
+> sklíček mikroskopických.
 
   
 
-Listuji v starozákonních lupíncích jater,  
-v bílých pomnících mozků čtu  
-hieroglyfy  
-rozkladu.
+> Listuji v starozákonních lupíncích jater,  
+> v bílých pomnících mozků čtu  
+> hieroglyfy  
+> rozkladu.
 
   
 
-Hle, křesťané,  
-nebe, peklo a ráj  
-ve flaštičkách.  
-A není kvílení,  
-ba ani povzdechnutí.  
-Jen prach sténá.
+> Hle, křesťané,  
+> nebe, peklo a ráj  
+> ve flaštičkách.  
+> A není kvílení,  
+> ba ani povzdechnutí.  
+> Jen prach sténá.
 
   
 
-Mlčí historie,  
-vlásečnicemi  
-procezená.
+> Mlčí historie,  
+> vlásečnicemi  
+> procezená.
 
   
 
-Rovnost němá. Bratrství němé.
+> Rovnost němá. Bratrství němé.
 
   
 
-A z trikolor trápení smrtelných  
-nitky moudření  
-den za dnem  
-vytahujeme.
+> A z trikolor trápení smrtelných  
+> nitky moudření  
+> den za dnem  
+> vytahujeme.
