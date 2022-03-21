@@ -1,0 +1,929 @@
+{
+  "author": "Miroslav Holub",
+  "edition": "beletrie",
+  "identifier": "holub-denni-sluzba-100584d",
+  "languagecode": "cs",
+  "modified": "2021-10-03T16:48:04.200Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Denní služba",
+  "revision": "100584d",
+  "generatedAt": {
+    "date": "Mon Mar 21 2022 09:35:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647855303129
+  },
+  "documents": [
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "denni_sluzba_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "denni_sluzba_001.html",
+      "next": "denni_sluzba_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_003.html",
+      "words": 4,
+      "chars": 26,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "denni_sluzba_002.html",
+      "next": "denni_sluzba_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_004.html",
+      "words": 91,
+      "chars": 610,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "denni_sluzba_003.html",
+      "next": "denni_sluzba_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "denni_sluzba_004.html",
+      "next": "denni_sluzba_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_006.html",
+      "words": 58,
+      "chars": 324,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 5,
+      "prev": "denni_sluzba_005.html",
+      "next": "denni_sluzba_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_007.html",
+      "words": 70,
+      "chars": 390,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 6,
+      "prev": "denni_sluzba_006.html",
+      "next": "denni_sluzba_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_008.html",
+      "words": 180,
+      "chars": 966,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 7,
+      "prev": "denni_sluzba_007.html",
+      "next": "denni_sluzba_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_009.html",
+      "words": 103,
+      "chars": 561,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 8,
+      "prev": "denni_sluzba_008.html",
+      "next": "denni_sluzba_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_010.html",
+      "words": 107,
+      "chars": 577,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 9,
+      "prev": "denni_sluzba_009.html",
+      "next": "denni_sluzba_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_011.html",
+      "words": 125,
+      "chars": 721,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 10,
+      "prev": "denni_sluzba_010.html",
+      "next": "denni_sluzba_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_012.html",
+      "words": 67,
+      "chars": 434,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 11,
+      "prev": "denni_sluzba_011.html",
+      "next": "denni_sluzba_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_013.html",
+      "words": 45,
+      "chars": 262,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "denni_sluzba_012.html",
+      "next": "denni_sluzba_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_014.html",
+      "words": 120,
+      "chars": 634,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 13,
+      "prev": "denni_sluzba_013.html",
+      "next": "denni_sluzba_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_015.html",
+      "words": 83,
+      "chars": 417,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 14,
+      "prev": "denni_sluzba_014.html",
+      "next": "denni_sluzba_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_016.html",
+      "words": 68,
+      "chars": 342,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 15,
+      "prev": "denni_sluzba_015.html",
+      "next": "denni_sluzba_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_017.html",
+      "words": 93,
+      "chars": 578,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 16,
+      "prev": "denni_sluzba_016.html",
+      "next": "denni_sluzba_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_018.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 17,
+      "prev": "denni_sluzba_017.html",
+      "next": "denni_sluzba_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_019.html",
+      "words": 76,
+      "chars": 458,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 18,
+      "prev": "denni_sluzba_018.html",
+      "next": "denni_sluzba_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_020.html",
+      "words": 48,
+      "chars": 276,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 19,
+      "prev": "denni_sluzba_019.html",
+      "next": "denni_sluzba_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_021.html",
+      "words": 19,
+      "chars": 116,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 20,
+      "prev": "denni_sluzba_020.html",
+      "next": "denni_sluzba_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_022.html",
+      "words": 66,
+      "chars": 423,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 21,
+      "prev": "denni_sluzba_021.html",
+      "next": "denni_sluzba_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_023.html",
+      "words": 40,
+      "chars": 243,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 22,
+      "prev": "denni_sluzba_022.html",
+      "next": "denni_sluzba_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_024.html",
+      "words": 43,
+      "chars": 285,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "denni_sluzba_023.html",
+      "next": "denni_sluzba_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_025.html",
+      "words": 93,
+      "chars": 505,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 24,
+      "prev": "denni_sluzba_024.html",
+      "next": "denni_sluzba_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_026.html",
+      "words": 79,
+      "chars": 481,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 25,
+      "prev": "denni_sluzba_025.html",
+      "next": "denni_sluzba_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_027.html",
+      "words": 75,
+      "chars": 373,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 26,
+      "prev": "denni_sluzba_026.html",
+      "next": "denni_sluzba_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_028.html",
+      "words": 104,
+      "chars": 532,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 27,
+      "prev": "denni_sluzba_027.html",
+      "next": "denni_sluzba_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_029.html",
+      "words": 97,
+      "chars": 573,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 28,
+      "prev": "denni_sluzba_028.html",
+      "next": "denni_sluzba_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_030.html",
+      "words": 94,
+      "chars": 535,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 29,
+      "prev": "denni_sluzba_029.html",
+      "next": "denni_sluzba_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_031.html",
+      "words": 104,
+      "chars": 573,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 30,
+      "prev": "denni_sluzba_030.html",
+      "next": "denni_sluzba_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_032.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 31,
+      "prev": "denni_sluzba_031.html",
+      "next": "denni_sluzba_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_033.html",
+      "words": 54,
+      "chars": 286,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 32,
+      "prev": "denni_sluzba_032.html",
+      "next": "denni_sluzba_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_034.html",
+      "words": 94,
+      "chars": 522,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 33,
+      "prev": "denni_sluzba_033.html",
+      "next": "denni_sluzba_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_035.html",
+      "words": 47,
+      "chars": 257,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 34,
+      "prev": "denni_sluzba_034.html",
+      "next": "denni_sluzba_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_036.html",
+      "words": 37,
+      "chars": 218,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 35,
+      "prev": "denni_sluzba_035.html",
+      "next": "denni_sluzba_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_037.html",
+      "words": 69,
+      "chars": 425,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 36,
+      "prev": "denni_sluzba_036.html",
+      "next": "denni_sluzba_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_038.html",
+      "words": 86,
+      "chars": 563,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 37,
+      "prev": "denni_sluzba_037.html",
+      "next": "denni_sluzba_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_039.html",
+      "words": 22,
+      "chars": 117,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 38,
+      "prev": "denni_sluzba_038.html",
+      "next": "denni_sluzba_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_040.html",
+      "words": 65,
+      "chars": 433,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 39,
+      "prev": "denni_sluzba_039.html",
+      "next": "denni_sluzba_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_041.html",
+      "words": 66,
+      "chars": 365,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 40,
+      "prev": "denni_sluzba_040.html",
+      "next": "denni_sluzba_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_042.html",
+      "words": 46,
+      "chars": 246,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 41,
+      "prev": "denni_sluzba_041.html",
+      "next": "denni_sluzba_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_043.html",
+      "words": 85,
+      "chars": 524,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 42,
+      "prev": "denni_sluzba_042.html",
+      "next": "denni_sluzba_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_044.html",
+      "words": 111,
+      "chars": 575,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 43,
+      "prev": "denni_sluzba_043.html",
+      "next": "denni_sluzba_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denní služba",
+      "file": "denni_sluzba_045.html",
+      "words": 49,
+      "chars": 332,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 44,
+      "prev": "denni_sluzba_044.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2990,
+      "chars": 17120,
+      "ideas": 885
+    },
+    "chapters": {
+      "words": 2983,
+      "chars": 17078,
+      "ideas": 880
+    }
+  }
+}
