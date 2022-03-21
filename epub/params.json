@@ -2,14 +2,14 @@
   "params": {
     "metadata": {
       "languageCode": "cs",
-      "contentType": "prose",
+      "contentType": "poetry",
       "title": "Denní služba",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Miroslav Holub",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-03T16:48:04.200Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": ""
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady\nMLP_uroven2_basne",
@@ -40,8 +40,8 @@
             "filename": "denni_sluzba_001.md",
             "xhtml": "denni_sluzba_001.xhtml",
             "id": 0,
-            "role": "chapter",
-            "inToc": true,
+            "role": "cover",
+            "inToc": false,
             "listType": "plain",
             "children": []
           },
@@ -49,8 +49,8 @@
             "filename": "denni_sluzba_002.md",
             "xhtml": "denni_sluzba_002.xhtml",
             "id": 1,
-            "role": "chapter",
-            "inToc": true,
+            "role": "break",
+            "inToc": false,
             "listType": "plain",
             "children": []
           },
@@ -58,8 +58,8 @@
             "filename": "denni_sluzba_003.md",
             "xhtml": "denni_sluzba_003.xhtml",
             "id": 2,
-            "role": "chapter",
-            "inToc": true,
+            "role": "colophon",
+            "inToc": false,
             "listType": "plain",
             "children": []
           },
@@ -67,8 +67,8 @@
             "filename": "denni_sluzba_004.md",
             "xhtml": "denni_sluzba_004.xhtml",
             "id": 3,
-            "role": "chapter",
-            "inToc": true,
+            "role": "colophon",
+            "inToc": false,
             "listType": "plain",
             "children": []
           },
@@ -79,7 +79,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "POPELKA"
           },
           {
             "filename": "denni_sluzba_006.md",
@@ -88,7 +89,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Sazeč"
           },
           {
             "filename": "denni_sluzba_007.md",
@@ -97,7 +99,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Husy"
           },
           {
             "filename": "denni_sluzba_008.md",
@@ -106,7 +109,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O Popelce"
           },
           {
             "filename": "denni_sluzba_009.md",
@@ -115,7 +119,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O psím andělu"
           },
           {
             "filename": "denni_sluzba_010.md",
@@ -124,7 +129,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Domácí pán"
           },
           {
             "filename": "denni_sluzba_011.md",
@@ -133,7 +139,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Hroby zajatců"
           },
           {
             "filename": "denni_sluzba_012.md",
@@ -142,7 +149,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Varšava"
           },
           {
             "filename": "denni_sluzba_013.md",
@@ -151,7 +159,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Zahradník"
           },
           {
             "filename": "denni_sluzba_014.md",
@@ -160,7 +169,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Ulice večer"
           },
           {
             "filename": "denni_sluzba_015.md",
@@ -169,7 +179,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Kluci u řeky"
           },
           {
             "filename": "denni_sluzba_016.md",
@@ -178,7 +189,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Děti a moře"
           },
           {
             "filename": "denni_sluzba_017.md",
@@ -187,7 +199,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Přístav"
           },
           {
             "filename": "denni_sluzba_018.md",
@@ -196,7 +209,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "NEJHLUBŠÍ MOŘE SVĚTA"
           },
           {
             "filename": "denni_sluzba_019.md",
@@ -205,7 +219,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Budík"
           },
           {
             "filename": "denni_sluzba_020.md",
@@ -214,7 +229,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Maso"
           },
           {
             "filename": "denni_sluzba_021.md",
@@ -223,7 +239,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Mucholapka"
           },
           {
             "filename": "denni_sluzba_022.md",
@@ -232,7 +249,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Mlýnek na kávu"
           },
           {
             "filename": "denni_sluzba_023.md",
@@ -241,7 +259,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Háčkující"
           },
           {
             "filename": "denni_sluzba_024.md",
@@ -250,7 +269,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Těsto"
           },
           {
             "filename": "denni_sluzba_025.md",
@@ -259,7 +279,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Ticho před ránem"
           },
           {
             "filename": "denni_sluzba_026.md",
@@ -268,7 +289,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Nošení uhlí"
           },
           {
             "filename": "denni_sluzba_027.md",
@@ -277,7 +299,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Shrbená žena"
           },
           {
             "filename": "denni_sluzba_028.md",
@@ -286,7 +309,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Tramvaj v půl šesté ráno"
           },
           {
             "filename": "denni_sluzba_029.md",
@@ -295,7 +319,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Stavba"
           },
           {
             "filename": "denni_sluzba_030.md",
@@ -304,7 +329,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Šedivá báseň"
           },
           {
             "filename": "denni_sluzba_031.md",
@@ -313,7 +339,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Stařec v noci"
           },
           {
             "filename": "denni_sluzba_032.md",
@@ -322,7 +349,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "DENNÍ SLUŽBA"
           },
           {
             "filename": "denni_sluzba_033.md",
@@ -331,7 +359,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Výslech matematika"
           },
           {
             "filename": "denni_sluzba_034.md",
@@ -340,7 +369,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Večer v laboratoři"
           },
           {
             "filename": "denni_sluzba_035.md",
@@ -349,7 +379,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Pokusný králík"
           },
           {
             "filename": "denni_sluzba_036.md",
@@ -358,7 +389,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "V mikroskopu"
           },
           {
             "filename": "denni_sluzba_037.md",
@@ -367,7 +399,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Ambulance"
           },
           {
             "filename": "denni_sluzba_038.md",
@@ -376,7 +409,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Nemocní budoucnosti"
           },
           {
             "filename": "denni_sluzba_039.md",
@@ -385,7 +419,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Dárce krve"
           },
           {
             "filename": "denni_sluzba_040.md",
@@ -394,7 +429,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Pathologie"
           },
           {
             "filename": "denni_sluzba_041.md",
@@ -403,7 +439,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Interna"
           },
           {
             "filename": "denni_sluzba_042.md",
@@ -412,7 +449,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O družici"
           },
           {
             "filename": "denni_sluzba_043.md",
@@ -421,7 +459,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Denní služba"
           },
           {
             "filename": "denni_sluzba_044.md",
@@ -430,14 +469,15 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Beznohý"
           },
           {
             "filename": "denni_sluzba_045.md",
             "xhtml": "denni_sluzba_045.xhtml",
             "id": 44,
-            "role": "chapter",
-            "inToc": true,
+            "role": "colophon",
+            "inToc": false,
             "listType": "plain",
             "children": []
           }
@@ -480,241 +520,241 @@
         "xhtml": "denni_sluzba_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "POPELKA",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_005.md",
         "xhtml": "denni_sluzba_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sazeč",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_006.md",
         "xhtml": "denni_sluzba_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Husy",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_007.md",
         "xhtml": "denni_sluzba_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O Popelce",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_008.md",
         "xhtml": "denni_sluzba_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O psím andělu",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_009.md",
         "xhtml": "denni_sluzba_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Domácí pán",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_010.md",
         "xhtml": "denni_sluzba_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hroby zajatců",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_011.md",
         "xhtml": "denni_sluzba_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Varšava",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_012.md",
         "xhtml": "denni_sluzba_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zahradník",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_013.md",
         "xhtml": "denni_sluzba_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ulice večer",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_014.md",
         "xhtml": "denni_sluzba_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kluci u řeky",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_015.md",
         "xhtml": "denni_sluzba_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Děti a moře",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_016.md",
         "xhtml": "denni_sluzba_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přístav",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_017.md",
         "xhtml": "denni_sluzba_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "NEJHLUBŠÍ MOŘE SVĚTA",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_018.md",
         "xhtml": "denni_sluzba_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Budík",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_019.md",
         "xhtml": "denni_sluzba_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Maso",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_020.md",
         "xhtml": "denni_sluzba_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mucholapka",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_021.md",
         "xhtml": "denni_sluzba_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mlýnek na kávu",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_022.md",
         "xhtml": "denni_sluzba_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Háčkující",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_023.md",
         "xhtml": "denni_sluzba_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Těsto",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_024.md",
         "xhtml": "denni_sluzba_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ticho před ránem",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_025.md",
         "xhtml": "denni_sluzba_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nošení uhlí",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_026.md",
         "xhtml": "denni_sluzba_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Shrbená žena",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_027.md",
         "xhtml": "denni_sluzba_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tramvaj v půl šesté ráno",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_028.md",
         "xhtml": "denni_sluzba_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stavba",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_029.md",
         "xhtml": "denni_sluzba_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šedivá báseň",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_030.md",
         "xhtml": "denni_sluzba_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stařec v noci",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_031.md",
         "xhtml": "denni_sluzba_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DENNÍ SLUŽBA",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_032.md",
         "xhtml": "denni_sluzba_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Výslech matematika",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_033.md",
         "xhtml": "denni_sluzba_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Večer v laboratoři",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_034.md",
         "xhtml": "denni_sluzba_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pokusný králík",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_035.md",
         "xhtml": "denni_sluzba_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V mikroskopu",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_036.md",
         "xhtml": "denni_sluzba_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ambulance",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_037.md",
         "xhtml": "denni_sluzba_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nemocní budoucnosti",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_038.md",
         "xhtml": "denni_sluzba_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dárce krve",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_039.md",
         "xhtml": "denni_sluzba_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pathologie",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_040.md",
         "xhtml": "denni_sluzba_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Interna",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_041.md",
         "xhtml": "denni_sluzba_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O družici",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_042.md",
         "xhtml": "denni_sluzba_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Denní služba",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_043.md",
         "xhtml": "denni_sluzba_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Beznohý",
         "subtitleSuggest": "",
         "filename": "denni_sluzba_044.md",
         "xhtml": "denni_sluzba_044.xhtml"
@@ -784,6 +824,6 @@
       "user": "books-are-next",
       "repo": "denni-sluzba"
     },
-    "generatedAt": 1647855157537
+    "generatedAt": 1647887234668
   }
 }
