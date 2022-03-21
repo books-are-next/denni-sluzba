@@ -1,16 +1,17 @@
 {
   "author": "Miroslav Holub",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "holub-denni-sluzba-100584d",
+  "identifier": "holub-denni-sluzba-321dd19",
   "languagecode": "cs",
   "modified": "2021-10-03T16:48:04.200Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Denní služba",
-  "revision": "100584d",
+  "revision": "321dd19",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 09:35:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647855303129
+    "date": "Mon Mar 21 2022 18:28:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647887294018
   },
   "documents": [
     {
@@ -94,11 +95,11 @@
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "POPELKA • Denní služba",
       "file": "denni_sluzba_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
       "role": "chapter",
       "order": 4,
       "prev": "denni_sluzba_004.html",
@@ -107,14 +108,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "POPELKA",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Sazeč • Denní služba",
       "file": "denni_sluzba_006.html",
       "words": 58,
       "chars": 324,
@@ -127,14 +128,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sazeč",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Husy • Denní služba",
       "file": "denni_sluzba_007.html",
       "words": 70,
       "chars": 390,
@@ -147,14 +148,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Husy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "O Popelce • Denní služba",
       "file": "denni_sluzba_008.html",
       "words": 180,
       "chars": 966,
@@ -167,14 +168,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O Popelce",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "O psím andělu • Denní služba",
       "file": "denni_sluzba_009.html",
       "words": 103,
       "chars": 561,
@@ -187,14 +188,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O psím andělu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Domácí pán • Denní služba",
       "file": "denni_sluzba_010.html",
       "words": 107,
       "chars": 577,
@@ -207,14 +208,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Domácí pán",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Hroby zajatců • Denní služba",
       "file": "denni_sluzba_011.html",
       "words": 125,
       "chars": 721,
@@ -227,14 +228,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hroby zajatců",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Varšava • Denní služba",
       "file": "denni_sluzba_012.html",
       "words": 67,
       "chars": 434,
@@ -247,14 +248,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Varšava",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Zahradník • Denní služba",
       "file": "denni_sluzba_013.html",
       "words": 45,
       "chars": 262,
@@ -267,14 +268,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zahradník",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Ulice večer • Denní služba",
       "file": "denni_sluzba_014.html",
       "words": 120,
       "chars": 634,
@@ -287,14 +288,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ulice večer",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Kluci u řeky • Denní služba",
       "file": "denni_sluzba_015.html",
       "words": 83,
       "chars": 417,
@@ -307,14 +308,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kluci u řeky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Děti a moře • Denní služba",
       "file": "denni_sluzba_016.html",
       "words": 68,
       "chars": 342,
@@ -327,14 +328,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Děti a moře",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Přístav • Denní služba",
       "file": "denni_sluzba_017.html",
       "words": 93,
       "chars": 578,
@@ -347,18 +348,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Přístav",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "NEJHLUBŠÍ MOŘE SVĚTA • Denní služba",
       "file": "denni_sluzba_018.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 3,
+      "chars": 20,
+      "ideas": 1,
       "role": "chapter",
       "order": 17,
       "prev": "denni_sluzba_017.html",
@@ -367,14 +368,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "NEJHLUBŠÍ MOŘE SVĚTA",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Budík • Denní služba",
       "file": "denni_sluzba_019.html",
       "words": 76,
       "chars": 458,
@@ -387,14 +388,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Budík",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Maso • Denní služba",
       "file": "denni_sluzba_020.html",
       "words": 48,
       "chars": 276,
@@ -407,14 +408,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Maso",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Mucholapka • Denní služba",
       "file": "denni_sluzba_021.html",
       "words": 19,
       "chars": 116,
@@ -427,14 +428,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mucholapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Mlýnek na kávu • Denní služba",
       "file": "denni_sluzba_022.html",
       "words": 66,
       "chars": 423,
@@ -447,14 +448,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mlýnek na kávu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Háčkující • Denní služba",
       "file": "denni_sluzba_023.html",
       "words": 40,
       "chars": 243,
@@ -467,14 +468,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Háčkující",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Těsto • Denní služba",
       "file": "denni_sluzba_024.html",
       "words": 43,
       "chars": 285,
@@ -487,14 +488,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Těsto",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Ticho před ránem • Denní služba",
       "file": "denni_sluzba_025.html",
       "words": 93,
       "chars": 505,
@@ -507,14 +508,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ticho před ránem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Nošení uhlí • Denní služba",
       "file": "denni_sluzba_026.html",
       "words": 79,
       "chars": 481,
@@ -527,14 +528,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nošení uhlí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Shrbená žena • Denní služba",
       "file": "denni_sluzba_027.html",
       "words": 75,
       "chars": 373,
@@ -547,14 +548,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Shrbená žena",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Tramvaj v půl šesté ráno • Denní služba",
       "file": "denni_sluzba_028.html",
       "words": 104,
       "chars": 532,
@@ -567,14 +568,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tramvaj v půl šesté ráno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Stavba • Denní služba",
       "file": "denni_sluzba_029.html",
       "words": 97,
       "chars": 573,
@@ -587,14 +588,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Stavba",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Šedivá báseň • Denní služba",
       "file": "denni_sluzba_030.html",
       "words": 94,
       "chars": 535,
@@ -607,17 +608,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Šedivá báseň",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Stařec v noci • Denní služba",
       "file": "denni_sluzba_031.html",
-      "words": 104,
-      "chars": 573,
+      "words": 108,
+      "chars": 637,
       "ideas": 34,
       "role": "chapter",
       "order": 30,
@@ -627,18 +628,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Stařec v noci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "DENNÍ SLUŽBA • Denní služba",
       "file": "denni_sluzba_032.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 12,
+      "ideas": 1,
       "role": "chapter",
       "order": 31,
       "prev": "denni_sluzba_031.html",
@@ -647,14 +648,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "DENNÍ SLUŽBA",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Výslech matematika • Denní služba",
       "file": "denni_sluzba_033.html",
       "words": 54,
       "chars": 286,
@@ -667,14 +668,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Výslech matematika",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Večer v laboratoři • Denní služba",
       "file": "denni_sluzba_034.html",
       "words": 94,
       "chars": 522,
@@ -687,14 +688,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Večer v laboratoři",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Pokusný králík • Denní služba",
       "file": "denni_sluzba_035.html",
       "words": 47,
       "chars": 257,
@@ -707,14 +708,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pokusný králík",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "V mikroskopu • Denní služba",
       "file": "denni_sluzba_036.html",
       "words": 37,
       "chars": 218,
@@ -727,14 +728,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "V mikroskopu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Ambulance • Denní služba",
       "file": "denni_sluzba_037.html",
       "words": 69,
       "chars": 425,
@@ -747,14 +748,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ambulance",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Nemocní budoucnosti • Denní služba",
       "file": "denni_sluzba_038.html",
       "words": 86,
       "chars": 563,
@@ -767,14 +768,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nemocní budoucnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Dárce krve • Denní služba",
       "file": "denni_sluzba_039.html",
       "words": 22,
       "chars": 117,
@@ -787,14 +788,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dárce krve",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Pathologie • Denní služba",
       "file": "denni_sluzba_040.html",
       "words": 65,
       "chars": 433,
@@ -807,14 +808,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pathologie",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Interna • Denní služba",
       "file": "denni_sluzba_041.html",
       "words": 66,
       "chars": 365,
@@ -827,14 +828,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Interna",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "O družici • Denní služba",
       "file": "denni_sluzba_042.html",
       "words": 46,
       "chars": 246,
@@ -847,14 +848,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O družici",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Denní služba • Denní služba",
       "file": "denni_sluzba_043.html",
       "words": 85,
       "chars": 524,
@@ -867,14 +868,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Denní služba",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Denní služba",
+      "title": "Beznohý • Denní služba",
       "file": "denni_sluzba_044.html",
       "words": 111,
       "chars": 575,
@@ -887,7 +888,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Beznohý",
           "id": null,
           "children": []
         }
@@ -916,14 +917,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2990,
-      "chars": 17120,
-      "ideas": 885
+      "words": 3000,
+      "chars": 17223,
+      "ideas": 888
     },
     "chapters": {
-      "words": 2983,
-      "chars": 17078,
-      "ideas": 880
+      "words": 2993,
+      "chars": 17181,
+      "ideas": 883
     }
   }
 }

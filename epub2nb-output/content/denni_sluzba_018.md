@@ -1,5 +1,6 @@
 ---
+title: NEJHLUBŠÍ MOŘE SVĚTA
 contentType: prose
 ---
 
-NEJHLUBŠÍ MOŘE SVĚTA
+

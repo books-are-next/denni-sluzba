@@ -1,21 +1,20 @@
 ---
+title: Mucholapka
 contentType: prose
 ---
 
-Mucholapka
-
-Bzučivé svědomí kuchyní,  
-chcípají vinní i nevinní,
+> Bzučivé svědomí kuchyní,  
+> chcípají vinní i nevinní,
 
   
 
-Sisyfové.
+> Sisyfové.
 
   
 
-A bude bez mušinců,  
-a bude ráj.
+> A bude bez mušinců,  
+> a bude ráj.
 
   
 
-Arbeit macht frei.
+> Arbeit macht frei.
