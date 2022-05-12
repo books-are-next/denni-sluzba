@@ -1,22 +1,67 @@
 {
-  "author": "Miroslav Holub",
-  "contenttype": "poetry",
-  "edition": "",
-  "identifier": "holub-denni-sluzba-c3f93e2",
-  "languagecode": "cs",
-  "modified": "2021-10-03T16:48:04.200Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Denní služba",
-  "revision": "c3f93e2",
+  "author": "Miroslav Holub",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "holub-denni-sluzba-77a98b8",
+  "revision": "77a98b8",
+  "readingOrder": [
+    "promo.html",
+    "denni_sluzba_005.html",
+    "denni_sluzba_006.html",
+    "denni_sluzba_007.html",
+    "denni_sluzba_008.html",
+    "denni_sluzba_009.html",
+    "denni_sluzba_010.html",
+    "denni_sluzba_011.html",
+    "denni_sluzba_012.html",
+    "denni_sluzba_013.html",
+    "denni_sluzba_014.html",
+    "denni_sluzba_015.html",
+    "denni_sluzba_016.html",
+    "denni_sluzba_017.html",
+    "denni_sluzba_018.html",
+    "denni_sluzba_019.html",
+    "denni_sluzba_020.html",
+    "denni_sluzba_021.html",
+    "denni_sluzba_022.html",
+    "denni_sluzba_023.html",
+    "denni_sluzba_024.html",
+    "denni_sluzba_025.html",
+    "denni_sluzba_026.html",
+    "denni_sluzba_027.html",
+    "denni_sluzba_028.html",
+    "denni_sluzba_029.html",
+    "denni_sluzba_030.html",
+    "denni_sluzba_031.html",
+    "denni_sluzba_032.html",
+    "denni_sluzba_033.html",
+    "denni_sluzba_034.html",
+    "denni_sluzba_035.html",
+    "denni_sluzba_036.html",
+    "denni_sluzba_037.html",
+    "denni_sluzba_038.html",
+    "denni_sluzba_039.html",
+    "denni_sluzba_040.html",
+    "denni_sluzba_041.html",
+    "denni_sluzba_042.html",
+    "denni_sluzba_043.html",
+    "denni_sluzba_044.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 18:41:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647888064232
+    "date": "Thu May 12 2022 10:36:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351808395
   },
   "documents": [
     {
-      "title": "Denní služba",
-      "file": "denni_sluzba_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +69,17 @@
       "order": 0,
       "prev": null,
       "next": "denni_sluzba_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "POPELKA • Denní služba",
+      "title": "POPELKA",
       "file": "denni_sluzba_005.html",
       "words": 1,
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "denni_sluzba_002.html",
+      "prev": "promo.html",
       "next": "denni_sluzba_006.html",
       "toc": [
         {
@@ -55,7 +92,7 @@
       ]
     },
     {
-      "title": "Sazeč • Denní služba",
+      "title": "Sazeč",
       "file": "denni_sluzba_006.html",
       "words": 58,
       "chars": 324,
@@ -75,7 +112,7 @@
       ]
     },
     {
-      "title": "Husy • Denní služba",
+      "title": "Husy",
       "file": "denni_sluzba_007.html",
       "words": 70,
       "chars": 390,
@@ -95,7 +132,7 @@
       ]
     },
     {
-      "title": "O Popelce • Denní služba",
+      "title": "O Popelce",
       "file": "denni_sluzba_008.html",
       "words": 180,
       "chars": 966,
@@ -115,7 +152,7 @@
       ]
     },
     {
-      "title": "O psím andělu • Denní služba",
+      "title": "O psím andělu",
       "file": "denni_sluzba_009.html",
       "words": 103,
       "chars": 561,
@@ -135,7 +172,7 @@
       ]
     },
     {
-      "title": "Domácí pán • Denní služba",
+      "title": "Domácí pán",
       "file": "denni_sluzba_010.html",
       "words": 107,
       "chars": 577,
@@ -155,7 +192,7 @@
       ]
     },
     {
-      "title": "Hroby zajatců • Denní služba",
+      "title": "Hroby zajatců",
       "file": "denni_sluzba_011.html",
       "words": 125,
       "chars": 721,
@@ -175,7 +212,7 @@
       ]
     },
     {
-      "title": "Varšava • Denní služba",
+      "title": "Varšava",
       "file": "denni_sluzba_012.html",
       "words": 67,
       "chars": 434,
@@ -195,7 +232,7 @@
       ]
     },
     {
-      "title": "Zahradník • Denní služba",
+      "title": "Zahradník",
       "file": "denni_sluzba_013.html",
       "words": 45,
       "chars": 262,
@@ -215,7 +252,7 @@
       ]
     },
     {
-      "title": "Ulice večer • Denní služba",
+      "title": "Ulice večer",
       "file": "denni_sluzba_014.html",
       "words": 120,
       "chars": 634,
@@ -235,7 +272,7 @@
       ]
     },
     {
-      "title": "Kluci u řeky • Denní služba",
+      "title": "Kluci u řeky",
       "file": "denni_sluzba_015.html",
       "words": 83,
       "chars": 417,
@@ -255,7 +292,7 @@
       ]
     },
     {
-      "title": "Děti a moře • Denní služba",
+      "title": "Děti a moře",
       "file": "denni_sluzba_016.html",
       "words": 68,
       "chars": 342,
@@ -275,7 +312,7 @@
       ]
     },
     {
-      "title": "Přístav • Denní služba",
+      "title": "Přístav",
       "file": "denni_sluzba_017.html",
       "words": 93,
       "chars": 578,
@@ -295,7 +332,7 @@
       ]
     },
     {
-      "title": "NEJHLUBŠÍ MOŘE SVĚTA • Denní služba",
+      "title": "NEJHLUBŠÍ MOŘE SVĚTA",
       "file": "denni_sluzba_018.html",
       "words": 3,
       "chars": 20,
@@ -315,7 +352,7 @@
       ]
     },
     {
-      "title": "Budík • Denní služba",
+      "title": "Budík",
       "file": "denni_sluzba_019.html",
       "words": 76,
       "chars": 458,
@@ -335,7 +372,7 @@
       ]
     },
     {
-      "title": "Maso • Denní služba",
+      "title": "Maso",
       "file": "denni_sluzba_020.html",
       "words": 48,
       "chars": 276,
@@ -355,7 +392,7 @@
       ]
     },
     {
-      "title": "Mucholapka • Denní služba",
+      "title": "Mucholapka",
       "file": "denni_sluzba_021.html",
       "words": 19,
       "chars": 116,
@@ -375,7 +412,7 @@
       ]
     },
     {
-      "title": "Mlýnek na kávu • Denní služba",
+      "title": "Mlýnek na kávu",
       "file": "denni_sluzba_022.html",
       "words": 66,
       "chars": 423,
@@ -395,7 +432,7 @@
       ]
     },
     {
-      "title": "Háčkující • Denní služba",
+      "title": "Háčkující",
       "file": "denni_sluzba_023.html",
       "words": 40,
       "chars": 243,
@@ -415,7 +452,7 @@
       ]
     },
     {
-      "title": "Těsto • Denní služba",
+      "title": "Těsto",
       "file": "denni_sluzba_024.html",
       "words": 43,
       "chars": 285,
@@ -435,7 +472,7 @@
       ]
     },
     {
-      "title": "Ticho před ránem • Denní služba",
+      "title": "Ticho před ránem",
       "file": "denni_sluzba_025.html",
       "words": 93,
       "chars": 505,
@@ -455,7 +492,7 @@
       ]
     },
     {
-      "title": "Nošení uhlí • Denní služba",
+      "title": "Nošení uhlí",
       "file": "denni_sluzba_026.html",
       "words": 79,
       "chars": 481,
@@ -475,7 +512,7 @@
       ]
     },
     {
-      "title": "Shrbená žena • Denní služba",
+      "title": "Shrbená žena",
       "file": "denni_sluzba_027.html",
       "words": 75,
       "chars": 373,
@@ -495,7 +532,7 @@
       ]
     },
     {
-      "title": "Tramvaj v půl šesté ráno • Denní služba",
+      "title": "Tramvaj v půl šesté ráno",
       "file": "denni_sluzba_028.html",
       "words": 104,
       "chars": 532,
@@ -515,7 +552,7 @@
       ]
     },
     {
-      "title": "Stavba • Denní služba",
+      "title": "Stavba",
       "file": "denni_sluzba_029.html",
       "words": 97,
       "chars": 573,
@@ -535,7 +572,7 @@
       ]
     },
     {
-      "title": "Šedivá báseň • Denní služba",
+      "title": "Šedivá báseň",
       "file": "denni_sluzba_030.html",
       "words": 94,
       "chars": 535,
@@ -555,7 +592,7 @@
       ]
     },
     {
-      "title": "Stařec v noci • Denní služba",
+      "title": "Stařec v noci",
       "file": "denni_sluzba_031.html",
       "words": 108,
       "chars": 637,
@@ -575,7 +612,7 @@
       ]
     },
     {
-      "title": "DENNÍ SLUŽBA • Denní služba",
+      "title": "DENNÍ SLUŽBA",
       "file": "denni_sluzba_032.html",
       "words": 2,
       "chars": 12,
@@ -595,7 +632,7 @@
       ]
     },
     {
-      "title": "Výslech matematika • Denní služba",
+      "title": "Výslech matematika",
       "file": "denni_sluzba_033.html",
       "words": 54,
       "chars": 286,
@@ -615,7 +652,7 @@
       ]
     },
     {
-      "title": "Večer v laboratoři • Denní služba",
+      "title": "Večer v laboratoři",
       "file": "denni_sluzba_034.html",
       "words": 94,
       "chars": 522,
@@ -635,7 +672,7 @@
       ]
     },
     {
-      "title": "Pokusný králík • Denní služba",
+      "title": "Pokusný králík",
       "file": "denni_sluzba_035.html",
       "words": 47,
       "chars": 257,
@@ -655,7 +692,7 @@
       ]
     },
     {
-      "title": "V mikroskopu • Denní služba",
+      "title": "V mikroskopu",
       "file": "denni_sluzba_036.html",
       "words": 37,
       "chars": 218,
@@ -675,7 +712,7 @@
       ]
     },
     {
-      "title": "Ambulance • Denní služba",
+      "title": "Ambulance",
       "file": "denni_sluzba_037.html",
       "words": 69,
       "chars": 425,
@@ -695,7 +732,7 @@
       ]
     },
     {
-      "title": "Nemocní budoucnosti • Denní služba",
+      "title": "Nemocní budoucnosti",
       "file": "denni_sluzba_038.html",
       "words": 86,
       "chars": 563,
@@ -715,7 +752,7 @@
       ]
     },
     {
-      "title": "Dárce krve • Denní služba",
+      "title": "Dárce krve",
       "file": "denni_sluzba_039.html",
       "words": 22,
       "chars": 117,
@@ -735,7 +772,7 @@
       ]
     },
     {
-      "title": "Pathologie • Denní služba",
+      "title": "Pathologie",
       "file": "denni_sluzba_040.html",
       "words": 65,
       "chars": 433,
@@ -755,7 +792,7 @@
       ]
     },
     {
-      "title": "Interna • Denní služba",
+      "title": "Interna",
       "file": "denni_sluzba_041.html",
       "words": 66,
       "chars": 365,
@@ -775,7 +812,7 @@
       ]
     },
     {
-      "title": "O družici • Denní služba",
+      "title": "O družici",
       "file": "denni_sluzba_042.html",
       "words": 46,
       "chars": 246,
@@ -795,7 +832,7 @@
       ]
     },
     {
-      "title": "Denní služba • Denní služba",
+      "title": "Denní služba",
       "file": "denni_sluzba_043.html",
       "words": 85,
       "chars": 524,
@@ -815,7 +852,7 @@
       ]
     },
     {
-      "title": "Beznohý • Denní služba",
+      "title": "Beznohý",
       "file": "denni_sluzba_044.html",
       "words": 111,
       "chars": 575,
@@ -835,11 +872,11 @@
       ]
     },
     {
-      "title": "Tiráž • Denní služba",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 145,
-      "chars": 973,
-      "ideas": 22,
+      "words": 127,
+      "chars": 835,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "denni_sluzba_044.html",
@@ -857,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2999,
-      "chars": 17215,
-      "ideas": 887
+      "words": 2981,
+      "chars": 17077,
+      "ideas": 882
     },
     "chapters": {
       "words": 2849,

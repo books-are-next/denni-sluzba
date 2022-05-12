@@ -49,7 +49,7 @@
             "filename": "denni_sluzba_002.md",
             "xhtml": "denni_sluzba_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -826,6 +826,6 @@
       "user": "books-are-next",
       "repo": "denni-sluzba"
     },
-    "generatedAt": 1647888002898
+    "generatedAt": 1652351335966
   }
 }

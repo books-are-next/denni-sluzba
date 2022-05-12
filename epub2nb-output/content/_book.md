@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: ''
 readingOrder:
-  - denni_sluzba_002.html
+  - promo.html
   - denni_sluzba_005.html
   - denni_sluzba_006.html
   - denni_sluzba_007.html
