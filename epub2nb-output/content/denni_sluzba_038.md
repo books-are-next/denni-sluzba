@@ -3,6 +3,8 @@ title: Nemocní budoucnosti
 contentType: poetry
 ---
 
+<section>
+
 > Jako řetěz  
 > postupují ze světa ke špitálu  
 > a vespod zase zpět.  
@@ -10,12 +12,16 @@ contentType: poetry
 > rychleji, pořád rychleji,  
 > rumpál se točí.
 
-  
+</section>
+
+<section>
 
 > Nastává čas  
 > atomické rehabilitace.
 
-  
+</section>
+
+<section>
 
 > A tehdy  
 > jejich vozíky budou raketové,  
@@ -29,21 +35,29 @@ contentType: poetry
 > hluchoněmým svěří  
 > tikání hvězd.
 
-  
+</section>
+
+<section>
 
 > Tvrdé paprsky místo rukou.
 
-  
+</section>
+
+<section>
 
 > Fotocela místo imaginace.
 
-  
+</section>
+
+<section>
 
 > A synthetická játra  
 > budou vyměňovat  
 > o kvartálech let milostiplných.
 
-  
+</section>
+
+<section>
 
 > Jestli ovšem  
 > snad  
@@ -53,3 +67,5 @@ contentType: poetry
 > a milostí  
 > nebude  
 > zapotřebí.
+
+</section>

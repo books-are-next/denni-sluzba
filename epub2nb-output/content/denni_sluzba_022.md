@@ -3,10 +3,14 @@ title: Mlýnek na kávu
 contentType: poetry
 ---
 
+<section>
+
 > Vynalezli jsme  
 > perpetuum mobile.
 
-  
+</section>
+
+<section>
 
 > Mele,  
 > vychází slunce,  
@@ -30,10 +34,14 @@ contentType: poetry
 > režné zrno snů  
 > mele.
 
-  
+</section>
+
+<section>
 
 > Vynalezli jsme  
 > perpetuum mobile.  
 > Vynalezli jsme  
 > ticho  
 > kořenů.
+
+</section>

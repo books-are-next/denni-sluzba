@@ -3,6 +3,8 @@ title: Ambulance
 contentType: poetry
 ---
 
+<section>
+
 > Přinášejí rozdrcené prsty,  
 > spravte to, doktore.  
 > Přinášejí vypálené oči,  
@@ -17,7 +19,9 @@ contentType: poetry
 > ticho zuhelnatění,  
 > spravte to, doktore.
 
-  
+</section>
+
+<section>
 
 > A zatím co šijeme  
 > píď po pídi,  
@@ -30,6 +34,10 @@ contentType: poetry
 > ještě hromovější bomby,  
 > ještě slavnější vítězství,
 
-  
+</section>
+
+<section>
 
 > idioti.
+
+</section>
