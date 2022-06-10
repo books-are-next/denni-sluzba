@@ -3,6 +3,8 @@ title: Maso
 contentType: poetry
 ---
 
+<section>
+
 _Mlýnek na maso z nové hmoty  
 Oč jde v Alžíru?_
 
@@ -13,13 +15,17 @@ TITULKY
 > stolů kuchyňských  
 > kosmické kvílení masa.
 
-  
+</section>
+
+<section>
 
 > Mokvavé chřtány  
 > octem a novinami  
 > marně ucpávají.
 
-  
+</section>
+
+<section>
 
 > Všeliké maso  
 > na posledních soudech,  
@@ -28,7 +34,11 @@ TITULKY
 > světa kraj  
 > řve.
 
-  
+</section>
+
+<section>
 
 > Více octa!  
 > Více novin!
+
+</section>

@@ -3,19 +3,25 @@ title: Husy
 contentType: poetry
 ---
 
+<section>
+
 > Váhavou řadou  
 > mezi domečky a mechem  
 > jdou, hledajíce  
 > nenalezitelné.
 
-  
+</section>
+
+<section>
 
 > Týden co týden  
 > jedna a jedna mizí z nich  
 > a bílé peří  
 > víří v kuchyních.
 
-  
+</section>
+
+<section>
 
 > Váhavou řadou  
 > ty, které zbyly, jdou pak zpět  
@@ -23,7 +29,9 @@ contentType: poetry
 > kolébavé  
 > vedou si uprostřed.
 
-  
+</section>
+
+<section>
 
 > Týden co týden  
 > mezi domečky a mechem  
@@ -34,7 +42,11 @@ contentType: poetry
 > rozpjatým křídlem  
 > dá nám uletět.
 
-  
+</section>
+
+<section>
 
 > Rozpjatým křídlem  
 > dá nám uletět.
+
+</section>

@@ -3,6 +3,8 @@ title: "O\_psím andělu"
 contentType: poetry
 ---
 
+<section>
+
 > Falešné slzy světel na asfaltu.  
 > Snad myslel na fenku  
 > či na kost vzpomínal tu —  
@@ -10,7 +12,9 @@ contentType: poetry
 > chytily, skříply  
 > a rozdrtily.
 
-  
+</section>
+
+<section>
 
 > Vleče se pryč,  
 > čelistí vykloubenou  
@@ -18,7 +22,9 @@ contentType: poetry
 > řve, padá, kňučí  
 > a utichne.
 
-  
+</section>
+
+<section>
 
 > A lidi kolem  
 > vidí:  
@@ -28,7 +34,9 @@ contentType: poetry
 > a příliš velká bolest  
 > po loužích šíří svatozář.
 
-  
+</section>
+
+<section>
 
 > Rozpolcená tma  
 > nad tělem lomí rukama,  
@@ -37,15 +45,21 @@ contentType: poetry
 > Tak stranou  
 > zatáhli ho.
 
-  
+</section>
+
+<section>
 
 > Je to však už jen hadr,  
 > opršelý a trudovitý,  
 > záhrobní hadr,  
 > více nic.
 
-  
+</section>
+
+<section>
 
 > Anděl je na střechách,  
 > komíny očichává  
 > a hryže kosti létavic.
+
+</section>

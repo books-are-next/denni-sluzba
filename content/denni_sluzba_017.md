@@ -3,12 +3,16 @@ title: Přístav
 contentType: poetry
 ---
 
+<section>
+
 > Ale moře bylo změřeno  
 > a řetězy připoutáno k zemi.  
 > A země byla změřena  
 > a řetězy připoutána k moři.
 
-  
+</section>
+
+<section>
 
 > Spustili  
 > jeřáby, vychrtlé anděle,  
@@ -19,23 +23,31 @@ contentType: poetry
 > narýsovali  
 > labyrint cest kolem světa.
 
-  
+</section>
+
+<section>
 
 > Sestrojili  
 > minotaury lodí.
 
-  
+</section>
+
+<section>
 
 > Objevili pět kontinentů.
 
-  
+</section>
+
+<section>
 
 > Země byla změřena  
 > a řetězy připoutána k moři.  
 > A moře bylo změřeno  
 > a řetězy připoutáno k zemi.
 
-  
+</section>
+
+<section>
 
 > Ještě zbývá  
 > ten malý domek nad kanálem.  
@@ -45,8 +57,12 @@ contentType: poetry
 > kontinent stolu,  
 > ubrus, racek, jenž neodlétá.
 
-  
+</section>
+
+<section>
 
 > Ještě zbývá  
 > hrníček kafe,  
 > nejhlubší moře světa.
+
+</section>

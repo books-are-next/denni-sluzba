@@ -3,6 +3,8 @@ title: Interna
 contentType: poetry
 ---
 
+<section>
+
 > Sedmibolestní,  
 > lazaři.  
 > Jak puklé sochy  
@@ -10,7 +12,9 @@ contentType: poetry
 > Po nocích bráníme je  
 > těmahle rukama.
 
-  
+</section>
+
+<section>
 
 > A venku den  
 > jako lví kůže  
@@ -18,7 +22,9 @@ contentType: poetry
 > táhne houf ptáků  
 > sluncem zbrocených.
 
-  
+</section>
+
+<section>
 
 > A tebe vidím,  
 > poledne sálá z černých očí tvých,  
@@ -28,9 +34,13 @@ contentType: poetry
 > a okno vidím  
 > v dálce démantové.
 
-  
+</section>
+
+<section>
 
 > Sedmibolestní,  
 > lazaři!  
 > A okno vidím  
 > v dálce démantové!
+
+</section>

@@ -3,6 +3,8 @@ title: Nošení uhlí
 contentType: poetry
 ---
 
+<section>
+
 > Řadou  
 > nekonečnou  
 > jako hodiny,  
@@ -12,7 +14,9 @@ contentType: poetry
 > ze sklepů temnějších nežli stvoření světa  
 > k nebesům.
 
-  
+</section>
+
+<section>
 
 > Po schodech, které se objevují a mizejí  
 > jako krutá slova básní,  
@@ -21,7 +25,9 @@ contentType: poetry
 > k nesmírnému šturmu  
 > věčnosti.
 
-  
+</section>
+
+<section>
 
 > A nesete  
 > černou krev země  
@@ -39,7 +45,11 @@ contentType: poetry
 > podkroví,  
 >                    nebe.
 
-  
+</section>
+
+<section>
 
 > A všude  
 > zatopeno bude.
+
+</section>

@@ -3,14 +3,20 @@ title: Denní služba
 contentType: poetry
 ---
 
+<section>
+
 > Klatbu slovům!
 
-  
+</section>
+
+<section>
 
 > Praskají masky,  
 > tato cesta jde na dno.
 
-  
+</section>
+
+<section>
 
 > Bolest lomcuje světly,  
 > skřípá luna,  
@@ -22,7 +28,9 @@ contentType: poetry
 > znovu po prvé  
 > rodí se člověk.
 
-  
+</section>
+
+<section>
 
 > Neuvěřitelný,  
 > hlubinná ryba,  
@@ -33,7 +41,9 @@ contentType: poetry
 > odchází  
 > vládnout světu.
 
-  
+</section>
+
+<section>
 
 > A vedle  
 > znovu  
@@ -45,7 +55,9 @@ contentType: poetry
 >                  roušky,  
 >                  postroje věčnosti.
 
-  
+</section>
+
+<section>
 
 > Ne, pane biskupe,  
 > nikoli, generále,  
@@ -55,7 +67,11 @@ contentType: poetry
 > centimetry,  
 > trpělivost.
 
-  
+</section>
+
+<section>
 
 > A bude země nová  
 > a nebe nové.
+
+</section>
