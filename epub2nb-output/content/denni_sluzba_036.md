@@ -1,6 +1,6 @@
 ---
 title: "V\_mikroskopu"
-contentType: prose
+contentType: poetry
 ---
 
 > I tady jsou krajiny snící,  

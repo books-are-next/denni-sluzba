@@ -1,6 +1,6 @@
 ---
 title: Dárce krve
-contentType: prose
+contentType: poetry
 ---
 
 > I sochy šedivějí,  

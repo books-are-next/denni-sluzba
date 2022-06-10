@@ -1,6 +1,6 @@
 ---
 title: "Večer v\_laboratoři"
-contentType: prose
+contentType: poetry
 ---
 
 > A tady bílý kůň nevystoupí z hlubin,  

@@ -1,6 +1,6 @@
 ---
 title: Nošení uhlí
-contentType: prose
+contentType: poetry
 ---
 
 > Řadou  

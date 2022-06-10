@@ -1,6 +1,6 @@
 ---
 title: "Děti a\_moře"
-contentType: prose
+contentType: poetry
 ---
 
 > Na pláži dlouhé jako život  

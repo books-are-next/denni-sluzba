@@ -1,6 +1,6 @@
 ---
 title: Denní služba
-contentType: prose
+contentType: poetry
 ---
 
 > Klatbu slovům!

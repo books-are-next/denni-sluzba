@@ -1,6 +1,6 @@
 ---
 title: Stavba
-contentType: prose
+contentType: poetry
 ---
 
 > A to jsou skutečné ruce,  

@@ -1,6 +1,6 @@
 ---
 title: Interna
-contentType: prose
+contentType: poetry
 ---
 
 > Sedmibolestní,  

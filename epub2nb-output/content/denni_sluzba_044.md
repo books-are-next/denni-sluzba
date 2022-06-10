@@ -1,6 +1,6 @@
 ---
 title: Beznohý
-contentType: prose
+contentType: poetry
 ---
 
 > Všemi stupni,  

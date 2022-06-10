@@ -1,6 +1,6 @@
 ---
 title: Šedivá báseň
-contentType: prose
+contentType: poetry
 ---
 
 > Houpe se kočár slunce  

@@ -1,6 +1,6 @@
 ---
 title: Ticho před ránem
-contentType: prose
+contentType: poetry
 ---
 
 > Vytéká z domů,  

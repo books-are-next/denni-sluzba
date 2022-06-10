@@ -1,6 +1,6 @@
 ---
 title: Varšava
-contentType: prose
+contentType: poetry
 ---
 
 > Ruce padlých,  

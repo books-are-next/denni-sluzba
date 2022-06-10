@@ -1,6 +1,6 @@
 ---
 title: Háčkující
-contentType: prose
+contentType: poetry
 ---
 
 > Dráty tenkými jako ruce hvězd  

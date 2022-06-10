@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-77a98b8",
-  "revision": "77a98b8",
+  "identifier": "holub-denni-sluzba-45619ff",
+  "revision": "45619ff",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -55,8 +55,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351808395
+    "date": "Fri Jun 10 2022 14:16:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870574233
   },
   "documents": [
     {
@@ -874,9 +874,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 127,
-      "chars": 835,
-      "ideas": 17,
+      "words": 122,
+      "chars": 787,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "denni_sluzba_044.html",
@@ -894,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2981,
-      "chars": 17077,
-      "ideas": 882
+      "words": 2976,
+      "chars": 17029,
+      "ideas": 881
     },
     "chapters": {
       "words": 2849,

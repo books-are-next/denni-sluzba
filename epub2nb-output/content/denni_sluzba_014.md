@@ -1,6 +1,6 @@
 ---
 title: Ulice večer
-contentType: prose
+contentType: poetry
 ---
 
 > Nezná parád a lampionů.  

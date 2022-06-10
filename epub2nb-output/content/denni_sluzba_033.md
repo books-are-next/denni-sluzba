@@ -1,6 +1,6 @@
 ---
 title: Výslech matematika
-contentType: prose
+contentType: poetry
 ---
 
 > Sešitek u něho našli.  

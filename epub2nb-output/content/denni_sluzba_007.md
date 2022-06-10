@@ -1,6 +1,6 @@
 ---
 title: Husy
-contentType: prose
+contentType: poetry
 ---
 
 > Váhavou řadou  

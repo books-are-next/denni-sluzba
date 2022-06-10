@@ -1,6 +1,6 @@
 ---
 title: Těsto
-contentType: prose
+contentType: poetry
 ---
 
 > Tichounké hřmění v obzoru necek.  

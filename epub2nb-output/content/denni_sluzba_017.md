@@ -1,6 +1,6 @@
 ---
 title: Přístav
-contentType: prose
+contentType: poetry
 ---
 
 > Ale moře bylo změřeno  
