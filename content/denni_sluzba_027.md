@@ -1,6 +1,6 @@
 ---
 title: Shrbená žena
-contentType: prose
+contentType: poetry
 ---
 
 > Jde přes ulici,  

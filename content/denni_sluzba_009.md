@@ -1,6 +1,6 @@
 ---
 title: "O\_psím andělu"
-contentType: prose
+contentType: poetry
 ---
 
 > Falešné slzy světel na asfaltu.  

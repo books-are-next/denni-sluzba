@@ -1,6 +1,6 @@
 ---
 title: Ambulance
-contentType: prose
+contentType: poetry
 ---
 
 > Přinášejí rozdrcené prsty,  

@@ -1,6 +1,6 @@
 ---
 title: Nemocní budoucnosti
-contentType: prose
+contentType: poetry
 ---
 
 > Jako řetěz  

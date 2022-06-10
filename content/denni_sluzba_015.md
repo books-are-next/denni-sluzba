@@ -1,6 +1,6 @@
 ---
 title: "Kluci u\_řeky"
-contentType: prose
+contentType: poetry
 ---
 
 > Jde řeka na předměstí,  

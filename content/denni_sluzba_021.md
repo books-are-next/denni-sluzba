@@ -1,6 +1,6 @@
 ---
 title: Mucholapka
-contentType: prose
+contentType: poetry
 ---
 
 > Bzučivé svědomí kuchyní,  

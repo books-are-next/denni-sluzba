@@ -1,6 +1,6 @@
 ---
 title: Mlýnek na kávu
-contentType: prose
+contentType: poetry
 ---
 
 > Vynalezli jsme  

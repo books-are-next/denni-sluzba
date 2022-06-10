@@ -1,6 +1,6 @@
 ---
 title: Budík
-contentType: prose
+contentType: poetry
 ---
 
 > Tikání  

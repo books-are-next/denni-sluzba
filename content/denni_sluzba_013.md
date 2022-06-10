@@ -1,6 +1,6 @@
 ---
 title: Zahradník
-contentType: prose
+contentType: poetry
 ---
 
 > Dvacet let rovnal jejich kmeny,  

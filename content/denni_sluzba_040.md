@@ -1,6 +1,6 @@
 ---
 title: Pathologie
-contentType: prose
+contentType: poetry
 ---
 
 > Zde v Pánu leží  

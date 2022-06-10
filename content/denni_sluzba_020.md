@@ -1,6 +1,6 @@
 ---
 title: Maso
-contentType: prose
+contentType: poetry
 ---
 
 _Mlýnek na maso z nové hmoty  

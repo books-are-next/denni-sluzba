@@ -1,6 +1,6 @@
 ---
 title: DENNÍ SLUŽBA
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Stařec v\_noci"
-contentType: prose
+contentType: poetry
 ---
 
 _Morálka je víc než intelekt_

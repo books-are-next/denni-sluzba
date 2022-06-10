@@ -1,6 +1,6 @@
 ---
 title: Pokusný králík
-contentType: prose
+contentType: poetry
 ---
 
 > Ve svorkách rozpjatý je,  

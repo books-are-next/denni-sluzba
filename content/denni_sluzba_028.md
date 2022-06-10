@@ -1,6 +1,6 @@
 ---
 title: "Tramvaj v\_půl šesté ráno"
-contentType: prose
+contentType: poetry
 ---
 
 > V půl šesté ráno  

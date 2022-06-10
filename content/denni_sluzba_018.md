@@ -1,6 +1,6 @@
 ---
 title: NEJHLUBŠÍ MOŘE SVĚTA
-contentType: prose
+contentType: poetry
 ---
 
 

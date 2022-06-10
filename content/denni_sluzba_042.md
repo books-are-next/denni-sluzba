@@ -1,6 +1,6 @@
 ---
 title: "O\_družici"
-contentType: prose
+contentType: poetry
 ---
 
 > Leží  

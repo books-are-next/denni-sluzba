@@ -1,6 +1,6 @@
 ---
 title: "O\_Popelce"
-contentType: prose
+contentType: poetry
 ---
 
 > Popelka přebírá hrách:  

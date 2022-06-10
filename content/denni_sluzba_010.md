@@ -1,6 +1,6 @@
 ---
 title: Domácí pán
-contentType: prose
+contentType: poetry
 ---
 
 > Ptáky na stromech  

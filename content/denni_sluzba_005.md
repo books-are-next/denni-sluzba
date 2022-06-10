@@ -1,6 +1,6 @@
 ---
 title: POPELKA
-contentType: prose
+contentType: poetry
 ---
 
 

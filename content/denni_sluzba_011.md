@@ -1,6 +1,6 @@
 ---
 title: Hroby zajatců
-contentType: prose
+contentType: poetry
 ---
 
 _Jemand erzählt von seiner Mutter…_

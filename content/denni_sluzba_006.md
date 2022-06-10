@@ -1,6 +1,6 @@
 ---
 title: Sazeč
-contentType: prose
+contentType: poetry
 ---
 
 > Nemaje oblak, řízu, ani plnovous,  
