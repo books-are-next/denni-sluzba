@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-3d38aa3",
-  "revision": "3d38aa3",
+  "identifier": "holub-denni-sluzba-7083415",
+  "revision": "7083415",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -55,8 +55,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:48:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883319169
+    "date": "Sat Jun 11 2022 11:54:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948497698
   },
   "documents": [
     {
