@@ -31,7 +31,7 @@ ALBERT EINSTEIN
 
 <section>
 
->                    Hmota je rovna energii.
+>             Hmota je rovna energii.
 
 </section>
 
@@ -47,7 +47,7 @@ ALBERT EINSTEIN
 
 <section>
 
->                    Achilles nedohoní želvu.
+>             Achilles nedohoní želvu.
 
 </section>
 
@@ -64,13 +64,13 @@ ALBERT EINSTEIN
 
 <section>
 
->              Rychlost světla je mezná.
+>             Rychlost světla je mezná.
 
 </section>
 
 <section>
 
->              A dál je temnota.
+>             A dál je temnota.
 
 </section>
 
