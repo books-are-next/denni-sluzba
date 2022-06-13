@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-7083415",
-  "revision": "7083415",
+  "identifier": "holub-denni-sluzba-4d3d456",
+  "revision": "4d3d456",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -55,8 +55,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:54:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948497698
+    "date": "Mon Jun 13 2022 21:53:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157224167
   },
   "documents": [
     {
@@ -595,7 +595,7 @@
       "title": "Stařec v noci",
       "file": "denni_sluzba_031.html",
       "words": 108,
-      "chars": 637,
+      "chars": 621,
       "ideas": 34,
       "role": "chapter",
       "order": 27,
@@ -874,9 +874,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 590,
-      "ideas": 7,
+      "words": 122,
+      "chars": 787,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "denni_sluzba_044.html",
@@ -894,13 +894,13 @@
   ],
   "totals": {
     "all": {
-      "words": 2940,
-      "chars": 16832,
-      "ideas": 872
+      "words": 2976,
+      "chars": 17013,
+      "ideas": 881
     },
     "chapters": {
       "words": 2849,
-      "chars": 16213,
+      "chars": 16197,
       "ideas": 862
     }
   }

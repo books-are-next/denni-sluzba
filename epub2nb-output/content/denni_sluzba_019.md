@@ -9,7 +9,7 @@ contentType: poetry
 > v těhotném životě noci.  
 > Kovové zoubky  
 > hryznou pupečník rozbřesku.  
->                                                          Teď?
+>             Teď?
 
 </section>
 
@@ -19,7 +19,7 @@ contentType: poetry
 > chvějí se  
 > kuří nohy snu.  
 > Peřiny světélkují.  
->                                               Teď? Teď?
+>             Teď? Teď?
 
 </section>
 
@@ -33,7 +33,7 @@ contentType: poetry
 
 <section>
 
->                                         Teď vybuchne  
+>             Teď vybuchne  
 > drásavým řevem  
 > stříbrných pozounů  
 > k zenitu namířených,  

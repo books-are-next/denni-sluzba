@@ -22,9 +22,9 @@ contentType: poetry
 > skřípá luna,  
 > pomalým výbuchem krve  
 > rodí se člověk,  
->                  minuty,  
->                  centimetry,  
->                  kleště sahají na onen svět,  
+>             minuty,  
+>             centimetry,  
+>             kleště sahají na onen svět,  
 > znovu po prvé  
 > rodí se člověk.
 
@@ -49,11 +49,11 @@ contentType: poetry
 > znovu  
 > po prvé  
 > rodí se člověk.  
->                  Minuty,  
->                  centimetry,  
->                  rukavice,  
->                  roušky,  
->                  postroje věčnosti.
+>             Minuty,  
+>             centimetry,  
+>             rukavice,  
+>             roušky,  
+>             postroje věčnosti.
 
 </section>
 

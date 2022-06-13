@@ -8,8 +8,8 @@ contentType: poetry
 > Řadou  
 > nekonečnou  
 > jako hodiny,  
->                         jako dny,  
->                                           jako roky  
+>             jako dny,  
+>             jako roky  
 > postupujete  
 > ze sklepů temnějších nežli stvoření světa  
 > k nebesům.
@@ -32,18 +32,18 @@ contentType: poetry
 > A nesete  
 > černou krev země  
 > po druhé prolitou  
->                                   za nás za hříšné,  
+>             za nás za hříšné,  
 > nesete tuny teplé hmoty lidské,  
 > nesete tuny zamyšlení nerostného  
->                  k hodině smrti naší amen,  
+>             k hodině smrti naší amen,  
 > hodiny,  
->                dny,  
->                         roky,  
+>             dny,  
+>             roky,  
 > poschodí,  
->                    poschodí,  
->                                        poschodí,  
+>             poschodí,  
+>             poschodí,  
 > podkroví,  
->                    nebe.
+>             nebe.
 
 </section>
 
