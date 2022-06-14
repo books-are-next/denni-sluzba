@@ -12,7 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-03T16:48:04.200Z'
   publisherShort: mkp
-  edition: poezie
+  edition: ''
 readingOrder:
   - promo.html
   - denni_sluzba_005.html
