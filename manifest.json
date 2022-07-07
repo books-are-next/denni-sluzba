@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-94f57ec",
-  "revision": "94f57ec",
+  "identifier": "holub-denni-sluzba-e9d62fd",
+  "revision": "e9d62fd",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -52,11 +52,11 @@
     "denni_sluzba_042.html",
     "denni_sluzba_043.html",
     "denni_sluzba_044.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:59:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978345771
+    "date": "Thu Jul 07 2022 08:19:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181971583
   },
   "documents": [
     {
@@ -425,7 +425,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mlýnek na kávu",
+          "name": "Mlýnek na kávu",
           "id": null,
           "children": []
         }
@@ -860,7 +860,7 @@
       "role": "chapter",
       "order": 40,
       "prev": "denni_sluzba_043.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -873,11 +873,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 136,
-      "chars": 894,
+      "chars": 893,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "denni_sluzba_044.html",
       "next": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 2991,
-      "chars": 17126,
+      "chars": 17125,
       "ideas": 882
     },
     "chapters": {

@@ -58,7 +58,7 @@
             "filename": "denni_sluzba_003.md",
             "xhtml": "denni_sluzba_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -67,7 +67,7 @@
             "filename": "denni_sluzba_004.md",
             "xhtml": "denni_sluzba_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -479,7 +479,7 @@
             "filename": "denni_sluzba_045.md",
             "xhtml": "denni_sluzba_045.xhtml",
             "id": 44,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -826,6 +826,6 @@
       "user": "books-are-next",
       "repo": "denni-sluzba"
     },
-    "generatedAt": 1655978213193
+    "generatedAt": 1657181776062
   }
 }
