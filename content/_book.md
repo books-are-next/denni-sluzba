@@ -55,7 +55,7 @@ readingOrder:
   - denni_sluzba_042.html
   - denni_sluzba_043.html
   - denni_sluzba_044.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
