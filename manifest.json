@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-8658648",
-  "revision": "8658648",
+  "identifier": "holub-denni-sluzba-0a3c2ad",
+  "revision": "0a3c2ad",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414454180
+    "date": "Thu Sep 29 2022 21:21:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486467306
   },
   "documents": [
     {
