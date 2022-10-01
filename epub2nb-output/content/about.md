@@ -8,7 +8,7 @@ Edice Čeští básníci 20. století
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
