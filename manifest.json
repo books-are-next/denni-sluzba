@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-denni-sluzba-615d1d6",
-  "revision": "615d1d6",
+  "identifier": "holub-denni-sluzba-b63ca69",
+  "revision": "b63ca69",
   "readingOrder": [
     "promo.html",
     "denni_sluzba_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151306512
+    "date": "Mon Oct 10 2022 15:53:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417233209
   },
   "documents": [
     {
@@ -875,7 +875,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 894,
+      "chars": 895,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 2989,
-      "chars": 17126,
+      "chars": 17127,
       "ideas": 880
     },
     "chapters": {
